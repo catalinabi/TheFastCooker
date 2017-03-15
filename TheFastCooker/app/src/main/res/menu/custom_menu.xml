@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/nombre"
+        android:id="@+id/nombre_usuario"
+        android:layout_margin="10dp" />
+
+    <item android:title="Inicio"
+        android:id="@+id/nav_item_inbox"
+        android:icon="@drawable/home"/>
+
+    <item android:title="Perfil"
+        android:id="@+id/nav_item_sent"
+        android:icon="@drawable/search" />
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/alt_imagen_comida">
+    </ImageView>
+
+
+
+    <group android:id="@+id/group_settings_id">
+
+        <item android:title="Settings"
+            android:icon="@drawable/settings"/>
+        <item android:title="Help"
+            android:icon="@drawable/help"/>
+    </group>
+
+
+</menu>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">TheFastCooker</string>
+    <string name="title">Bienvenido a The Fast Cooker!</string>
+    <string name="identificarse">Identifiquese</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="btn_alta_chef">Registrarse como Chef</string>
+    <string name="btn_alta_usuario">Registrarse como Usuario</string>
+    <string name="email">Email</string>
+    <string name="direccion">Direccion</string>
+    <string name="telefono">Teléfono</string>
+    <string name="cargarGaleria">Cargar Imágen</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="checkboxChef">Soy un chef</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_alta_chef">AltaChef</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_alta_usuario">AltaUsuario</string>
+    <string name="title_activity_user">UserActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_alta_comida_chef">Alta Comida Chef</string>
+    <string name="menu_title">Título del Menu</string>
+    <string name="menu_desc">Descripción del Menu</string>
+    <string name="aperitivo">Descripción plato Aperitivo</string>
+    <string name="entrante">Descripción plato Entrante</string>
+    <string name="principal">Descripción plato Principal</string>
+    <string name="postre">Descripción plato Postre</string>
+    <string name="cocina">Descripción requisitos Cocina</string>
+    <string name="menaje">Descripción requisitos Menaje</string>
+    <string name="titulo">Medium Text</string>
+    <string name="alt_imagen_comida">imagen comida</string>
+    <string name="descripcion">Medium Text</string>
+    <string name="requisitos_cocina">Medium Text</string>
+    <string name="requisitos_menaje">Medium Text</string>
+    <string name="precio">precio</string>
+    <string name="duracion">duracion</string>
+    <string name="reservar">reservar</string>
+</resources>
